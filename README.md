@@ -11,7 +11,6 @@
 - TensorFlow
 - Python 2.7
 - matplotlib and numpy
-- Korean
 
 
 [Homepage]: <http://home.cse.ust.hk/~hunkim/>
