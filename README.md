@@ -6,6 +6,10 @@
 - Contents of table and PDF slides [Link]
 - [Youtube] lectures
 
+#### Reference 
+- [aymericdamien/TensorFlow-Examples]
+- [nlintz/TensorFlow-Tutorials]
+
 #### Must have
 - Jupyter notebook
 - TensorFlow
@@ -16,3 +20,5 @@
 [Homepage]: <http://home.cse.ust.hk/~hunkim/>
 [Link]: <http://hunkim.github.io/ml/>
 [Youtube]: <https://www.youtube.com/user/hunkims/featured>
+[aymericdamien/TensorFlow-Examples]: <https://github.com/aymericdamien/TensorFlow-Examples>
+[nlintz/TensorFlow-Tutorials]: <https://github.com/nlintz/TensorFlow-Tutorials>
